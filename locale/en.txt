@@ -3,16 +3,19 @@
 ## Action
 
 ### URL
+LinkBehaviour_08B4DDCF_27DD_D538_41A8_3E0B6051ADE2.source = https://360.bnpb.go.id/static-jembrana-sawang
+LinkBehaviour_166E092B_27DC_FD7E_41C1_0FC03A6930E4.source = https://360.bnpb.go.id/static-jembrana-tanahlapangmotorcross
+LinkBehaviour_17DB8E85_27DD_5728_4175_2172FED5FBE6.source = https://360.bnpb.go.id/static-jembrana-vilalimalima
 LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://andikaarywiguna.github.io/tanahlapang/
 LinkBehaviour_90DC6964_8A0F_9D34_41D7_A5759A2D7A81.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_90DBB965_8A0F_9D34_41A3_5E8C68AC9036.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_90D5C9A7_8A0F_9D34_41E0_B0C6AC5E90F7.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_90D349A6_8A0F_9D34_41BE_C04D3FA76D85.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_90D5C9A7_8A0F_9D34_41E0_B0C6AC5E90F7.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_240ED8FE_0D18_23DB_4185_EB137588CDCC.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_90D349A6_8A0F_9D34_41BE_C04D3FA76D85.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_90C869A8_8A0F_9D3C_41CE_9FA8A209D00E.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_15552651_3986_CC8A_41C5_A0E4784FC384.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 PopupWebFrameBehaviour_90E6D944_8A0F_9D6B_41DA_E8EABA30984B.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 PopupWebFrameBehaviour_25F73DA3_0D18_E26A_419D_C123D8D1BFEE.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
@@ -141,12 +144,12 @@ album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_0.label = tsunami-saat-ada-peringatan
 album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_80894683_A60E_B51E_41D4_EEA809CE28A8.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
-videolevel_80894683_A60E_B51E_41D4_EEA809CE28A8.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
-videolevel_808816FD_A60E_B2EB_41DC_07810711A435.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
-videolevel_808816FD_A60E_B2EB_41DC_07810711A435.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
-videolevel_808BF779_A60E_B3EA_41C1_3641E2127B87.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
-videolevel_808BF779_A60E_B3EA_41C1_3641E2127B87.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
+videolevel_105AD4B6_2647_AB68_41BB_0F0FBCBC46C2.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
+videolevel_105AD4B6_2647_AB68_41BB_0F0FBCBC46C2.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
+videolevel_10649543_2647_D52F_41BF_E4CBEA6E46C2.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
+videolevel_10649543_2647_D52F_41BF_E4CBEA6E46C2.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
+videolevel_106725CE_2647_D539_419C_323D6D535770.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
+videolevel_106725CE_2647_D539_419C_323D6D535770.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
 
 ### Video Subtitles
 
@@ -215,4 +218,4 @@ Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_mobile.url = skin/Image_6EA74DF4_4838
 ### Description
 
 ### Title
-tour.name = Titik Awal Jalan Sawang (5)
+tour.name = Awal Jalan Sawang
